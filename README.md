@@ -4,12 +4,12 @@ Roll any dice you require for you DnD sessions.
 
 # Installation
 
-`npm i diceroller`
+`npm i dicerollacoaster`
 
 # How to use
 
 ```js
-const diceroller = require("diceroller");
+const diceroller = require("dicerollacoaster");
 
 // Roll a D20
 const rollResult = diceroller.rollDice(diceroller.D20);
