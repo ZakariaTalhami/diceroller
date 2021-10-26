@@ -1,0 +1,14 @@
+{
+  "name": "diceroller",
+  "version": "1.0.0",
+  "description": "Roll any dice you require for you DnD sessions.",
+  "repository": {
+    "url": "https://github.com/ZakariaTalhami/diceroller"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zakaria Talhami",
+  "license": "ISC"
+}
